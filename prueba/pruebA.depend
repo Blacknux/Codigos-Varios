@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458933616 source:/home/knux/Escritorio/pruebA/main.c
+	<stdio.h>
+	<stdlib.h>
+
